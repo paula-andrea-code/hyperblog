@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body
 {
 <<<<<<< HEAD
@@ -42,4 +43,10 @@ body
 #post
 {
     padding: 1em;
+=======
+body {
+    color: deeppink;
+    text-align: center;
+    font-family: arial;
+>>>>>>> b2ceecd239db1f174115fb829a03059ed0da3a56
 }

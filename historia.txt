@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 esta es la historia depaula
 
 tiene 21.33 años
@@ -7,3 +8,17 @@ estudia en platzi
 y a viajado por todo el mundo
 
 hoy hablaremos de su vida y obra maestra
+=======
+esta es la historia de freddi begaaaa freddier
+
+en camara parece alto pero no es tan alto
+
+
+mañana nos enfocaremos en su vida laboral
+
+ya me TIENE HASTA LA MADRE ESTE PINCHE GITHUB
+new chic tenis para mi
+tenis para chica
+
+YA LO CONECTE
+>>>>>>> b2ceecd239db1f174115fb829a03059ed0da3a56
